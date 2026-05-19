@@ -16,25 +16,8 @@ stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
-## PROGRAM - ARP
 
-SERVER
 
-<img width="713" height="332" alt="image" src="https://github.com/user-attachments/assets/3d8059e3-0325-48a3-863d-63f4c6f9b817" />
-
-CLIENT
-
-<img width="488" height="192" alt="image" src="https://github.com/user-attachments/assets/3fea7916-46f9-45ef-95bb-1b890272f29f" />
-
-## OUPUT - ARP
-
-SERVER
-
-<img width="947" height="131" alt="image" src="https://github.com/user-attachments/assets/51106bdc-3d0c-4953-b71d-433bf36c706c" />
-
-CLIENT
-
-<img width="637" height="112" alt="image" src="https://github.com/user-attachments/assets/ad145c98-33bd-44f3-8541-fed93a0c2435" />
 
 ## PROGRAM - RARP
 
